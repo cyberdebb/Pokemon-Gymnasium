@@ -48,6 +48,7 @@ The player enters a Pokémon Gym through the terminal and is challenged by the G
    ```
 2. Run the ```PokemonGymnasium.exe``` executable file **OR** Compile the project:
   ```bash
+  cd src
   g++ main.cpp -o PokemonGymnasium
   ```
 3. Run the game:
