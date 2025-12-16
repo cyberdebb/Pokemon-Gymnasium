@@ -44,7 +44,7 @@ The player enters a Pokémon Gym through the terminal and is challenged by the G
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Pokemon-Gymnasium.git
+   git clone https://github.com/cyberdebb/Pokemon-Gymnasium.git
    ```
 2. Run the ```PokemonGymnasium.exe``` executable file **OR** Compile the project:
   ```bash
