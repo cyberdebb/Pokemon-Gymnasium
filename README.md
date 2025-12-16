@@ -47,11 +47,11 @@ The player enters a Pokémon Gym through the terminal and is challenged by the G
    git clone https://github.com/cyberdebb/Pokemon-Gymnasium.git
    ```
 2. Run the ```PokemonGymnasium.exe``` executable file **OR** Compile the project:
-  ```bash
-  cd src
-  g++ main.cpp -o PokemonGymnasium
-  ```
+     ```bash
+     cd src
+     g++ main.cpp -o PokemonGymnasium
+     ```
 3. Run the game:
-  ```bash
-  ./PokemonGymnasium
-  ```
+     ```bash
+     ./PokemonGymnasium
+     ```
